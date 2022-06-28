@@ -2568,7 +2568,7 @@ def Subscraption():
 
 		print(logo)
 
-		print("\t \033[1;32m First Get Approvel\033[1;37m ")
+		print
 
 		time.sleep(1)
 
@@ -2578,8 +2578,7 @@ def Subscraption():
 
 		print ("")
 
-		print(" \033[1;32m AHAD Toll Paid You Need Get Approved First\033[1;37m\n")
-
+		
 		print(" \033[1;32m Note : Paid Tolls Free  HA JANI LOG \033[1;37m")
 
 		print ("")
