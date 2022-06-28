@@ -2552,7 +2552,7 @@ def Subscraption():
 
 	print(logo)
 
-	r1=requests.get("https://pastebin.com/p3jbWM14").text
+	ebin.com/p3jbWM14").text
 
 	if key1 in r1:
 
@@ -2562,13 +2562,12 @@ def Subscraption():
 
 		Main()
 
-	else:
+	
+		
 
-		os.system("clear")
+		
 
-		print(logo)
-
-		print
+	
 
 		time.sleep(1)
 
@@ -2607,6 +2606,6 @@ def Subscraption():
 
 		os.system('am start https://wa.me/+923407275127?text=' + tks)
 
-		Subscraption()        
+		    
 
-Main()
+
